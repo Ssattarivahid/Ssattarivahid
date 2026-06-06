@@ -46,7 +46,7 @@ Python Developer • Telegram Bot Developer
 
 ## 🚀 Currently Building
 
-```text
+
 📦 Telegram Shop Bot
 ├── University bot
 ├── Computer group
@@ -56,6 +56,8 @@ Python Developer • Telegram Bot Developer
 └── my web 
 
 ---
+
+
 ## 📫 Contact Me
 
 <p align="center">
