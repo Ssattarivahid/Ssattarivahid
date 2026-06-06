@@ -44,7 +44,18 @@ Python Developer • Telegram Bot Developer
 
 ---
 
+## 🚀 Currently Building
 
+```text
+📦 Telegram Shop Bot
+├── University bot
+├── Computer group
+└── Tipaxyar
+
+🌐 Personal Portfolio
+└── my web 
+
+---
 ## 📫 Contact Me
 
 <p align="center">
